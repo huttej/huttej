@@ -1,11 +1,10 @@
 # 💫 About Me
 
-🔨 I'm currently working on **building end-to-end AI projects spanning ML, Deep Learning & Generative AI**
-🤝 I'm looking to collaborate on **ML models, Neural Networks, LLM apps & GenAI projects**
-🤔 I'm looking for help with **landing my first role in AI/ML & Generative AI industry**
-🌱 I'm currently learning **Machine Learning · Deep Learning · LLMs · Prompt Engineering · LangChain · RAG**
-💬 Ask me about **Scikit-learn, TensorFlow, PyTorch, HuggingFace, LangChain & AI Agents**
-⚡ Fun fact: **Neural networks are loosely inspired by the human brain — and I'm using mine to learn GPT-4 level AI! 🧠🚀**
+🔨 I'm currently working on **building end-to-end AI projects spanning ML, Deep Learning & Generative AI**<br>
+🤝 I'm looking to collaborate on **ML models, Neural Networks, LLM apps & GenAI projects**<br>
+🤔 I'm looking for help with **landing my first role in AI/ML & Generative AI industry**<br>
+🌱 I'm currently learning **Machine Learning · Deep Learning · LLMs · Prompt Engineering · LangChain · RAG**<br>
+💬 Ask me about **Scikit-learn, TensorFlow, PyTorch, HuggingFace, LangChain & AI Agents**<br>
 
 
 ## 🌐 Socials:
